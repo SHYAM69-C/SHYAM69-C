@@ -72,60 +72,7 @@ Java Development            █████████████████�
 Web Development             ████████████████░░░░░░ 80%
 AWS & Cloud                  ██████████████░░░░░░░░ 70%
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHYAM69-C&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHYAM69-C&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-🧩 LeetCode
-<div align="center"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" width="500"/> </div>
-🤝 Connect With Me
-<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="YOUR_GITHUB_URL"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
-⭐ Thanks for visiting my profile!
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" width="100%"/>
-
-### 🔴 One important change
-
-Replace:
-
-```text
-YOUR_GITHUB_USERNAME
-
-with your actual 3rd GitHub profile username in all places.
-
-For example, if your username is:
-
-SHYAM69-C
-
-use:
-
-?username=SHYAM69-C
-
-You can also send me your 3rd GitHub username + LinkedIn username + LeetCode username, and I can make the README fully ready to paste, with no YOUR_... placeholders.
-
-Shyam Sundar Sah
-
-Perfect. Your name is Shyam Sundar Sah. Here's a clean GitHub Profile README in the same style as the screenshot.
-
-Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=250&section=header&text=SHYAM%20SUNDAR%20SAH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%20%7C%20DSA%20%7C%20AWS%20%7C%20Web%20Development&descAlignY=60&descSize=18" width="100%"/>
-
-<h2>Software Engineer Intern 💻</h2>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge">
-
-</div>
-
----
 
 ## 👋 Hi, I'm Shyam Sundar Sah
 
